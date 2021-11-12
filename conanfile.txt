@@ -2,6 +2,7 @@
 cli11/1.9.1
 fmt/8.0.1
 functionalplus/0.2.13-p0
+eigen/3.4.0
 
 [generators]
 cmake
